@@ -1,0 +1,49 @@
+//  QData json
+
+[
+        {
+                "id": 1,
+                "eng": "monkey",
+                "tr": "Maymun",
+                "es": "Esmaymun",
+                "fr":"frmaymun",
+                "de":"demaymun",
+                "jumbbledWord":""
+        },
+        {
+                "id": 2,
+                "eng": "house",
+                "tr": "ev",
+                "es": "eshouse",
+                "fr":"frhouse",
+                "de":"dehouse",
+                "jumbbledWord":""
+        },
+        {
+                "id": 3,
+                "eng": "donkey",
+                "tr": "Esek",
+                "es": "esdonkey",
+                "fr":"frdonkey",
+                "de":"demonkey",
+                "jumbbledWord":""
+        },
+        {
+                "id": 4,
+                "eng": "Dog",
+                "tr": "kopek",
+                "es": "Esdog",
+                "fr":"frdog",
+                "de":"dedog",
+                "jumbbledWord":""
+        },
+        {
+                "id": 5,
+                "eng": "Cat",
+                "tr": "kedi",
+                "es": "Escat",
+                "fr":"frcat",
+                "de":"decat",
+                "jumbbledWord":""
+        }
+]
